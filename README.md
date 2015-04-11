@@ -9,3 +9,4 @@ pa - Pedro Aranha - 20111Y6-RC0160
 
 mjm - Moises Jose de Melo - 20101y6-rc0219
 
+wagnerbit - Wagner Bitencourt Alves - 20112Y6-RC0265
